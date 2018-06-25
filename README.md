@@ -5,7 +5,7 @@
 ### How to use it
 
 Get the `bm_client.go` under your GOPATH.
-Please check `bm_client_test.go` to see how to use it.
+Please check function `TestBMAccessToken()` in `bm_client_test.go` to see how to use it.
 
 ### Note:
 - RSA private key format: PKCS8
